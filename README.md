@@ -25,9 +25,13 @@ Repository Contents:
 
 Hotel_Management_SDS/
 ├── Hotel_Management_SDS.tex → Main LaTeX source file
+
 ├── Hotel_Management_SDS.pdf → Final compiled SDS document
+
 ├── images/ → Diagrams or screenshots (optional)
+
 │ └── overleaf_screenshot.png
+
 ├── README.md → Project README
 
 How to Use:
